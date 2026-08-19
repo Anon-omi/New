@@ -1,9 +1,10 @@
 {
  "show_dialog": false,
  "title": "Notice",
- "message": " 1:-👹 Bhaiyo Mera Application chori ho gaya hai (Chor Name:- rao shahab) agar apne Anonymous omi ke alawa kisi se liya hai to apka present nahi lagega. Contact me on telegram-> t.me/anonymous_omi",
- "toast": "✨ Welcome back to another apk🎉",
+ "message": "1: Bhaiyo Mera Application working hai",
+ "toast": false,
+ "toast_message": "Real developer t.me/Anonymous_omi",
  "force_update": false,
  "maintenance": false,
- "disable_app": false 
+ "disable_app": false
 }
