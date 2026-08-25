@@ -1,10 +1,10 @@
 {
- "show_dialog": true,
+ "show_dialog": false,
  "title": "Notice",
  "message": "1:-👹 Ultra Pro Max Mod with All features made by Anonymous Omi",
- "toast": true,
+ "toast": false,
  "toast_message": " t.me/Anonymous_omi",
- "force_update": true,
- "maintenance": true,
- "disable_app": true
+ "force_update": false,
+ "maintenance": false,
+ "disable_app": false
 }
